@@ -1,0 +1,9 @@
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\bin\Debug\WordPressTests.dll
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\bin\Debug\WordPressTests.pdb
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\bin\Debug\WordpressAutomation.dll
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\bin\Debug\WebDriver.dll
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\bin\Debug\WordpressAutomation.pdb
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\bin\Debug\WebDriver.xml
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\obj\Debug\WordPressTests.csprojResolveAssemblyReference.cache
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\obj\Debug\WordPressTests.dll
+c:\users\brut\documents\visual studio 2013\Projects\WordpressAutomation\WordPressTests\obj\Debug\WordPressTests.pdb
